@@ -1,0 +1,21 @@
+.divider {
+    width: 1px;
+}
+
+.prize {
+    position: relative;
+}
+
+.prize::after {
+    content: "";
+    background: url("/images/arrow.png");
+    position: absolute;
+    display: inline-block;
+    background-color: red;
+    top: -200px;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    border: 10px solid red;
+
+}
