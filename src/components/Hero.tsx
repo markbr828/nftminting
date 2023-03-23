@@ -29,7 +29,7 @@ const Hero = (props: Props) => {
                         <Image className='absolute inset-0 object-contain h-full w-full' src="/images/nft-collection.png" alt='Nft Collection' fill />
                     </div>
                     <div className='text-white'>
-                        <p className='text-lg tracking-widest'>You can Mint NFT's & Collect to Create Poker Card Combinations.</p>
+                        <p className='text-lg tracking-widest'>You can Mint NFT&apos;s & Collect to Create Poker Card Combinations.</p>
                     </div>
                 </div>
             </div>

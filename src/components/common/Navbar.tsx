@@ -21,7 +21,7 @@ const Navbar = (props: Props) => {
                 </div>
                 <div className="flex items-center gap-x-3 py-2">
                     <a className="nav-item cursor-pointer hover:scale-110 transition-all duration-300 ease-in-out">
-                        My NFT's
+                        My NFT&apos;s
                     </a>
                     <div className={clsx(styles.nav_divider, "min-w-[1px] bg-red-700")}></div>
                     <a className="nav-item cursor-pointer hover:scale-110 transition-all duration-300 ease-in-out">
